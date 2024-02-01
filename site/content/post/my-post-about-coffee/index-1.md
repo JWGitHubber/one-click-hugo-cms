@@ -3,6 +3,7 @@ title: My post about coffee
 date: 2024-02-01T06:56:40.535Z
 description: This post uses Decap CMS with a one click install from Netlify. I'm
   trying it out now!
+image: frozensquirrel2.jpg
 ---
 ### This will be the body of my post.
 
