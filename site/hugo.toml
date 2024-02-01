@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Pasta Now"
+title = "Kaldi"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
